@@ -1,0 +1,14 @@
+button {
+  margin: 10px;
+  padding: 12px 24px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #ffff;
+  border: none;
+  border-radius: 8px;
+}
+button:hover {
+  background-color: #2f649c;
+  filter: drop-shadow(0 0 2em #646cffaa);
+  transform: translateY(-2px);
+}
